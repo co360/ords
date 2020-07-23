@@ -1,0 +1,44 @@
+{
+    "tutorials": [
+        {         
+            "title": "Introduction and Overview ORDS",
+            "description": "Introduction to XML ",
+            "partnumber": "Ennnnn_01",
+            "publisheddate": "03/10/2020",
+            "contentid": "12nnnn",
+            "filename": "../ords/intro-ords.md"
+        },
+        {         
+            "title": "Lab 1: ORDS Environment Setup",
+            "description": "Env setup",
+            "partnumber": "Ennnnn_01",
+            "publisheddate": "03/10/2020",
+            "contentid": "12nnnn",
+            "filename": "../ords/ords_lab1.md"
+        },
+        {         
+            "title": "Lab 2: ORDS Lab1",
+            "description": "Env setup",
+            "partnumber": "Ennnnn_01",
+            "publisheddate": "03/10/2020",
+            "contentid": "12nnnn",
+            "filename": "../ords/ords_lab1.md"
+        },
+        {         
+            "title": "Lab 3: ORDS Lab 2",
+            "description": "Env setup",
+            "partnumber": "Ennnnn_01",
+            "publisheddate": "03/10/2020",
+            "contentid": "12nnnn",
+            "filename": "../ords/ordslab2.md"
+        },
+        {         
+            "title": "Lab 4: ORDS Lab 3",
+            "description": "Env setup",
+            "partnumber": "Ennnnn_01",
+            "publisheddate": "03/10/2020",
+            "contentid": "12nnnn",
+            "filename": "../ords/ordslab3.md"
+        }
+          ]
+}
